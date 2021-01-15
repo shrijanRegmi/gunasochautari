@@ -1,0 +1,38 @@
+.news-view .img-container {
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.news-view p {
+  font-size: 22px;
+}
+
+.news-view h3 {
+  font-size: 40px;
+}
+
+.news-view .landing-side-item p {
+  font-size: 14px;
+}
+
+@media screen and (max-width: 768px) {
+  .news-view .img-container {
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .news-view h3 {
+    font-size: 28px;
+  }
+  .news-view .img-container {
+    height: 300px;
+  }
+}
+
+.more-content {
+  margin-top: 100px;
+}
+/*# sourceMappingURL=news_view.css.map */

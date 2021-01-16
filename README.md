@@ -1,6 +1,6 @@
 # gunasochautari
 
-## Visit website @ https://gunasochautari.com/
+## Visit website @ https://gunasochautari.web.app/
 
 ## Build Setup
 
